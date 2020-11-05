@@ -1,0 +1,40 @@
+body {
+    display: block;
+    margin: 0px;
+    background-color: #457585;
+    text-decoration: underline;
+    line-height: 2;
+}
+
+img{
+	display: block;
+	height: 100%;
+	width: 100% ;
+	transition: width 2s;
+}
+
+h1{
+	display: block;
+	font-family: sans-serif;
+	background-color: #A17DF5;
+	margin-top: 0;
+	margin-bottom: 0;
+	font-style: italic;
+	text-align: center;
+
+}
+
+p{
+	 font-style: italic;
+	 font-size: 25px;
+	 font-family: 'Caveat', cursive;
+}
+
+
+
+header{
+	
+	height: 5%;
+	border-style: dashed;
+	background-color: #555555;
+}
